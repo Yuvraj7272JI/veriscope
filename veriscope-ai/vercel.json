@@ -2,11 +2,11 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
     "backend": {
-      "root": "veriscope-ai/backend",
+      "root": "backend",
       "runtime": "python"
     },
     "frontend": {
-      "root": "veriscope-ai/frontend",
+      "root": "frontend",
       "framework": "vite"
     }
   },
